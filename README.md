@@ -1,2 +1,3 @@
-# Interview-Preparation
-Interview Preparation bagved on HackerRank, LeetCode, etc. on Python and C++
+# Interview Preparation
+
+Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python and C++
