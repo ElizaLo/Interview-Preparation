@@ -24,7 +24,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 <ul style="list-style-type:circle;">
   <li> <a href="https://www.youtube.com/user/tusharroy2525"> Tushar Roy - Coding Made Simple</a>, YouTube Chanel </li>
   <li><a href="https://habr.com/ru/company/smart_start/blog/472796/"> ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника </a> </li>
-  <li><a href="https://www.cs.utah.edu/~jeffp/teaching/cs5955.html"> Data Mining</a> </li>
+  <li><a href=""> </a> </li>
 </ul>
 </details>
 
