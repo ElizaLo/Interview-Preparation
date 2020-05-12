@@ -4,10 +4,18 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 ### Table of Contents
 
-- [Interview Questions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-questions)
-- [Solutions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-solutions)
-- [Prepare for Interview]()
-- [GitHub Repositories]
+- [Interview Process & General Interview Preparation]()
+    - [Interview Questions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-questions)
+    - [Solutions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-solutions)
+    - [Prepare for Interview](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-prepare-for-interview)
+    - [GitHub Repositories](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#%EF%B8%8F-github-repositories)
+    - [Interview Articles](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-interview-articles) (Articles about "How successfully pass an interview")
+- [Algorithmic complexity / Big-O / Asymptotic analysis](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#algorithmic-complexity--big-o--asymptotic-analysis)
+- [System Design](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#system-design)
+- [Leadership Principles](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#leadership-principles)
+- [Mock Interview](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-mock-interview)
+
+# Interview Process & General Interview Preparation
 
 ## ❓Interview Questions
 
@@ -25,7 +33,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] []()
 
 
-## 📈  Prepare for Interview (Articles)
+## 📈 Prepare for Interview
 
 > Help prepare for interview
 
@@ -48,13 +56,11 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 ## 📑 Interview Articles
 > Articles about "How successfully pass an interview"
-
-> Статьи об успешном прохождении интервью
-
 > English 
 - [ ] []()
 
 > На русском
+> Статьи об успешном прохождении интервью
 - [ ] [Подготовка к собеседованиям в IT-гиганты: как я преодолела проклятье алгоритмического собеседования](https://habr.com/ru/post/499394/)
 - [ ] [ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника](https://habr.com/ru/company/smart_start/blog/472796/)
 - [ ] [Как попасть в Google: инструкция по подготовке](https://tproger.ru/articles/work-in-google/), Типичный программист
