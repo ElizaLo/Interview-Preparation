@@ -2,16 +2,15 @@
 
 Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python and C++
 
+### Table of Contents
+
+- [Interview Questions]()
+
 ## ❓Interview Questions
 
-<details>
- <summary> List of most common questions </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions"> Amazon Online Assessment Questions</a>, LeetCode</li>
-  <li><a href="https://habr.com/ru/company/smart_start/blog/472796/"> ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+- [ ] [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+
+
 
 ## 💡 Solutions
 
@@ -19,73 +18,44 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 > Список ресурсов, в которых объясняются решения задач
 
-<details>
- <summary> List of Resources </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://www.youtube.com/user/tusharroy2525"> Tushar Roy - Coding Made Simple</a>, YouTube Chanel </li>
-  <li><a href="https://habr.com/ru/company/smart_start/blog/472796/"> ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+- [ ] [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525), YouTube Chanel
+- [ ] []()
+- [ ] []()
+
 
 ## 📈  Articles about Interview
 
 > List of articles that help prepare for interview
 
-<details>
- <summary> List of Articles (ENG) </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed"> 14 Patterns to Ace Any Coding Interview Question </a> </li>
-  <li><a href="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns">Dynamic Programming Patterns </a>, LeetCode </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+> English 
+- [ ] [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [ ] [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns), LeetCode
 
-<details>
- <summary> List of Articles (RU) </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://tproger.ru/translations/14-templates-to-answer-interview-questions/"> 14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании </a> </li>
-  <li><a href="">  </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+> На русском
+- [ ] [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions/)
 
 ## ⚙️ GitHub Repositories
 
 > List of useful GitHub repositories
 
-<details>
- <summary> <b> List of Resources </b> </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://github.com/mission-peace/interview/wiki"> Tushar Roy GitHub</a></li>
-  <li><a href="">  </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+- [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer from [John Washam](https://github.com/jwasham)
+- [ ] [Tushar Roy GitHub](https://github.com/mission-peace/interview/wiki)
+
 
 ## 📑 Interview Articles
 > Articles about "How successfully pass an interview"
 
 > Статьи об успешном прохождении интервью
 
-<details>
- <summary> List of Articles (ENG)</summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href=""> </a> </li>
-  <li><a href=""> </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+> English 
+- [ ] []()
 
-<details>
- <summary> List of Articles (RU)</summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://habr.com/ru/post/499394/"> Подготовка к собеседованиям в IT-гиганты: как я преодолела проклятье алгоритмического собеседования</a> </li>
-  <li><a href="https://habr.com/ru/company/smart_start/blog/472796/"> ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника </a> </li>
-  <li><a href="https://tproger.ru/articles/work-in-google/"> Как попасть в Google: инструкция по подготовке</a>, Типичный программист </li>
-  <li><a href="https://dou.ua/lenta/articles/google-interview/"> Как попасть в Google: инструкция по подготовке</a>, DOU </li>
-</ul>
-</details>
+> На русском
+- [ ] [Подготовка к собеседованиям в IT-гиганты: как я преодолела проклятье алгоритмического собеседования](https://habr.com/ru/post/499394/)
+- [ ] [ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника](https://habr.com/ru/company/smart_start/blog/472796/)
+- [ ] [Как попасть в Google: инструкция по подготовке](https://tproger.ru/articles/work-in-google/), Типичный программист
+- [ ] [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/), DOU 
+
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
@@ -106,9 +76,9 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Interviewing.io](https://interviewing.io)
 - [ ] [Pramp](https://www.pramp.com/#/)
 
-## ✅ Useful links:
 
-### C++
+## C++
+
   - [MAXimal](http://e-maxx.ru/algo/)
   
   
