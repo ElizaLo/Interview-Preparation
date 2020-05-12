@@ -4,12 +4,14 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 ### Table of Contents
 
-- [Interview Questions]()
+- [Interview Questions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-questions)
+- [Solutions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-solutions)
+- [Prepare for Interview]()
+- [GitHub Repositories]
 
 ## ❓Interview Questions
 
 - [ ] [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
-
 
 
 ## 💡 Solutions
@@ -23,13 +25,15 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] []()
 
 
-## 📈  Articles about Interview
+## 📈  Prepare for Interview (Articles)
 
-> List of articles that help prepare for interview
+> Help prepare for interview
 
 > English 
 - [ ] [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [ ] [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns), LeetCode
+- [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer from [John Washam](https://github.com/jwasham)
+- [ ] [Tushar Roy GitHub](https://github.com/mission-peace/interview/wiki)
 
 > На русском
 - [ ] [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions/)
