@@ -1,6 +1,6 @@
-<img src="" width="900" height="100">
+<img src="https://github.com/ElizaLo/Interview-Preparation/blob/master/img/Banner_Interview_Prep.png" width="900" height="100">
 
-# Interview Preparation
+
 
 Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python and C++
 
