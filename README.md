@@ -2,7 +2,7 @@
 
 Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python and C++
 
-### Table of Contents
+## Table of Contents
 
 - [Interview Process & General Interview Preparation](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-process--general-interview-preparation)
     - [Interview Questions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-questions)
@@ -52,6 +52,8 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 - [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer from [John Washam](https://github.com/jwasham)
 - [ ] [Tushar Roy GitHub](https://github.com/mission-peace/interview/wiki)
+- [ ] [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [ ] [Interview](https://github.com/andreis/interview), Everything you need to prepare for your technical interview
 
 
 ## 📑 Interview Articles
@@ -75,6 +77,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview), Cource (Paid)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview), GitHub repository
 
 ## Leadership Principles
 
