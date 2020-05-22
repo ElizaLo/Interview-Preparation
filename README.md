@@ -14,6 +14,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [System Design](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#system-design)
 - [Leadership Principles](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#leadership-principles)
 - [Mock Interview](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-mock-interview)
+- [Tips](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-tips)
 
 # Interview Process & General Interview Preparation
 
@@ -89,6 +90,9 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Interviewing.io](https://interviewing.io)
 - [ ] [Pramp](https://www.pramp.com/#/)
 
+## Tips
+
+- [Как оформить профиль на GitHub так, чтобы он работал при поиске работы](https://dou.ua/lenta/articles/github-profile-for-beginners/?from=tg)
 
 ## C++
 
