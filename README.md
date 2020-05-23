@@ -2,6 +2,8 @@
 
 Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python and C++
 
+> This repository continues to be constantly updated.
+
 ## Table of Contents
 
 - [Interview Process & General Interview Preparation](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-process--general-interview-preparation)
