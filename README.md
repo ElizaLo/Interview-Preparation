@@ -20,6 +20,10 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 # Interview Process & General Interview Preparation
 
+## 📚 Books
+
+- [Codeless Data Structures and Algorithms : Learn DSA Without Writing a Single Line of Code](https://learning.oreilly.com/library/view/codeless-data-structures/9781484257258/?sfmc_id=175587659&utm_campaign=engagement&utm_medium=email&utm_source=platform+b2c&utm_content=whats+new+hot+20200713#toc)
+
 ## ❓Interview Questions
 
 - [ ] [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
