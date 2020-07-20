@@ -74,6 +74,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника](https://habr.com/ru/company/smart_start/blog/472796/)
 - [ ] [Как попасть в Google: инструкция по подготовке](https://tproger.ru/articles/work-in-google/), Типичный программист
 - [ ] [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/), DOU 
+- [ ] [Senior Research Scientist из Google Research — о PhD в американском университете, проектах в ML и перспективах Украины](https://dou.ua/lenta/articles/research-scientist-from-google/?from=tg)
 
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
