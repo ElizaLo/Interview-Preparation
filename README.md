@@ -106,3 +106,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
   - [MAXimal](http://e-maxx.ru/algo/)
   
   
+## Make profile Readme
+
+- [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
