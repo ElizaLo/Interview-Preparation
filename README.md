@@ -76,6 +76,9 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/), DOU 
 - [ ] [Senior Research Scientist из Google Research — о PhD в американском университете, проектах в ML и перспективах Украины](https://dou.ua/lenta/articles/research-scientist-from-google/?from=tg)
 
+> На украинском
+
+- [ ] [Як правильно заповнювати LinkedIn-профіль джуніору і сеньйору. Детальна інструкція](https://dou.ua/lenta/articles/fill-profile-on-linkedin/?from=tg)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
