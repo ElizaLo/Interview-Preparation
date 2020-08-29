@@ -69,12 +69,14 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] []()
 
 > На русском
+
 > Статьи об успешном прохождении интервью
 - [ ] [Подготовка к собеседованиям в IT-гиганты: как я преодолела проклятье алгоритмического собеседования](https://habr.com/ru/post/499394/)
 - [ ] [ДА вздрогнет FAANG* или [практическое руководство] по поиску работы в США/Европе для айтишника](https://habr.com/ru/company/smart_start/blog/472796/)
 - [ ] [Как попасть в Google: инструкция по подготовке](https://tproger.ru/articles/work-in-google/), Типичный программист
 - [ ] [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/), DOU 
 - [ ] [Senior Research Scientist из Google Research — о PhD в американском университете, проектах в ML и перспективах Украины](https://dou.ua/lenta/articles/research-scientist-from-google/?from=tg)
+- [ ] [Резюме IT-специалиста: советы технических интервьюеров](https://dou.ua/lenta/articles/resume-for-tech-interviewer/)
 
 > На украинском
 
