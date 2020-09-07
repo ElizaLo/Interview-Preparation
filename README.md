@@ -51,6 +51,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns), LeetCode
 - [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer from [John Washam](https://github.com/jwasham)
 - [ ] [Tushar Roy GitHub](https://github.com/mission-peace/interview/wiki)
+- [ ] [Optimal Timeline for Data Structures and Algorithms Interview](https://medium.com/women-who-code-silicon-valley/optimal-timeline-for-data-structures-and-algorithms-interview-9a88ef9021cb)
 
 > На русском
 - [ ] [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions/)
