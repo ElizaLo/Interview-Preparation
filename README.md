@@ -69,7 +69,9 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 ## 📑 Interview Articles
 > Articles about "How successfully pass an interview"
 > English 
-- [ ] []()
+- [ ] [Federal Income Tax Calculator](https://smartasset.com/taxes/income-taxes), USA
+- [ ] [Levels.fyi](https://www.levels.fyi), Career Levels
+    - > Compare leveling across companies. Click a company or level for salary info.
 
 > На русском
 
