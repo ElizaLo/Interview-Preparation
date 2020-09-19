@@ -8,6 +8,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 ## Table of Contents
 
+- [Map of Computer Science](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#map-of-computer-science)
 - [Interview Process & General Interview Preparation](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-process--general-interview-preparation)
     - [Interview Questions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#interview-questions)
     - [Solutions](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-solutions)
@@ -19,6 +20,10 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [Leadership Principles](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#leadership-principles)
 - [Mock Interview](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-mock-interview)
 - [Tips](https://github.com/ElizaLo/Interview-Preparation/blob/master/README.md#-tips)
+
+# Map of Computer Science
+
+<img src="https://live.staticflickr.com/4387/36231833334_b3581aa9af_o.png" width="960" height="676">
 
 # Interview Process & General Interview Preparation
 
