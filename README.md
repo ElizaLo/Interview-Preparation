@@ -116,6 +116,11 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 - [Как оформить профиль на GitHub так, чтобы он работал при поиске работы](https://dou.ua/lenta/articles/github-profile-for-beginners/?from=tg)
 
+## Job websites
+
+- [djinni](https://djinni.co)
+- [DOU.ua](https://dou.ua)
+
 ## C++
 
   - [MAXimal](http://e-maxx.ru/algo/)
