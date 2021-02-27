@@ -88,6 +88,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Как попасть в Google: инструкция по подготовке](https://tproger.ru/articles/work-in-google/), Типичный программист
 - [ ] [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/), DOU 
 - [ ] [Senior Research Scientist из Google Research — о PhD в американском университете, проектах в ML и перспективах Украины](https://dou.ua/lenta/articles/research-scientist-from-google/?from=tg)
+- [ ] [Рекрутер из Украины — о работе в Google, кризисе в Долине и возвращении домой](https://dou.ua/lenta/interviews/ukrainian-recruiter-about-google/?from=tg)
 - [ ] [Резюме IT-специалиста: советы технических интервьюеров](https://dou.ua/lenta/articles/resume-for-tech-interviewer/)
 - [ ] [LinkedIn, Twitter, Google і знову Twitter: український розробник — про те, як будував кар’єру в США](https://dou.ua/lenta/interviews/experience-in-top-tech-companies-1/?from=slider)
 
@@ -104,6 +105,10 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview), Cource (Paid)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview), GitHub repository
+
+### Product Design
+
+- [Intro to the CIRCLES Method™ Product Design Framework](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
 
 ## Leadership Principles
 
