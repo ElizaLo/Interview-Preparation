@@ -60,6 +60,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 > На русском
 - [ ] [14 шаблонов, которые помогут ответить на любой вопрос по коду на собеседовании](https://tproger.ru/translations/14-templates-to-answer-interview-questions/)
+- [ ] [Як правильно заповнювати LinkedIn-профіль джуніору і сеньйору. Детальна інструкція](https://dou.ua/lenta/articles/fill-profile-on-linkedin/)
 
 ## ⚙️ GitHub Repositories
 
