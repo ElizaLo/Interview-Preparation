@@ -88,6 +88,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/), DOU 
 - [ ] [Senior Research Scientist из Google Research — о PhD в американском университете, проектах в ML и перспективах Украины](https://dou.ua/lenta/articles/research-scientist-from-google/?from=tg)
 - [ ] [Резюме IT-специалиста: советы технических интервьюеров](https://dou.ua/lenta/articles/resume-for-tech-interviewer/)
+- [ ] [LinkedIn, Twitter, Google і знову Twitter: український розробник — про те, як будував кар’єру в США](https://dou.ua/lenta/interviews/experience-in-top-tech-companies-1/?from=slider)
 
 > На украинском
 
