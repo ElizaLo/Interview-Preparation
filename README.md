@@ -104,7 +104,9 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview), Cource (Paid)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview), GitHub repository
+- [ ] :octocat: [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+- [ ] :octocat: [awesome-system-design](https://github.com/madd86/awesome-system-design)
+    > A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [ ] [Как прокачаться в проектировании программного обеспечения — список книг](https://apolomodov.medium.com/software-design-books-743be52e4c71)
 - [ ] [System Design Interview](https://www.youtube.com/c/SystemDesignInterview/videos), YouTube Channel
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) Course at educative
