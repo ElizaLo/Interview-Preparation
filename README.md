@@ -73,6 +73,8 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Interview](https://github.com/andreis/interview), Everything you need to prepare for your technical interview
 - [ ] [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
     - > Algorithms and data structures are fundamental to efficient code and good software design. Creating and designing excellent algorithms is required for being an exemplary programmer. This repository's goal is to demonstrate how to correctly implement common data structures and algorithms in the simplest and most elegant ways.
+- [ ] [python-patterns](https://github.com/faif/python-patterns)
+    - > A collection of design patterns/idioms in Python
 - [ ] 
 
 
