@@ -63,19 +63,20 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 - [ ] [Як правильно заповнювати LinkedIn-профіль джуніору і сеньйору. Детальна інструкція](https://dou.ua/lenta/articles/fill-profile-on-linkedin/)
 - [ ] [Як Junior-спеціалісту створити перше резюме. Покрокова інструкція з поясненнями](https://dou.ua/lenta/columns/instructions-for-creating-resume/?from=recent)
 
-## ⚙️ GitHub Repositories
+## :octocat: GitHub Repositories
 
 > List of useful GitHub repositories
 
-- [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer from [John Washam](https://github.com/jwasham)
-- [ ] [Tushar Roy GitHub](https://github.com/mission-peace/interview/wiki)
-- [ ] [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
-- [ ] [Interview](https://github.com/andreis/interview), Everything you need to prepare for your technical interview
-- [ ] [Algorithms & data structures project](https://github.com/williamfiset/Algorithms)
-    - > Algorithms and data structures are fundamental to efficient code and good software design. Creating and designing excellent algorithms is required for being an exemplary programmer. This repository's goal is to demonstrate how to correctly implement common data structures and algorithms in the simplest and most elegant ways.
-- [ ] [python-patterns](https://github.com/faif/python-patterns)
-    - > A collection of design patterns/idioms in Python
-- [ ] 
+| Title | Description, Information |
+| :---:         |          :--- |
+|[Coding Interview University](https://github.com/jwasham/coding-interview-university)| A complete computer science study plan to become a software engineer from [John Washam](https://github.com/jwasham)|
+|[Tushar Roy GitHub](https://github.com/mission-peace/interview/wiki)||
+|[Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)||
+|[Interview](https://github.com/andreis/interview)|Everything you need to prepare for your technical interview|
+|[Algorithms & data structures project](https://github.com/williamfiset/Algorithms)|Algorithms and data structures are fundamental to efficient code and good software design. Creating and designing excellent algorithms is required for being an exemplary programmer. This repository's goal is to demonstrate how to correctly implement common data structures and algorithms in the simplest and most elegant ways.|
+|[python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|
+|[professional-programming](https://github.com/charlax/professional-programming)|A collection of learning resources for curious software engineers|
+|[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)|List of Computer Science courses with video lectures.|
 
 
 ## 📑 Interview Articles
