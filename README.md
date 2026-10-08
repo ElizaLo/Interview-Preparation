@@ -132,6 +132,7 @@ Interview Preparation based on HackerRank, LeetCode, InterviewBit etc. on Python
 
 - [ ] [Interviewing.io](https://interviewing.io)
 - [ ] [Pramp](https://www.pramp.com/#/)
+- [ ] [CandidThread](https://candidthread.com/mock-interview/data-scientist) — Free spoken data science interview practice with AI feedback; no account required. (Disclosure: we work on CandidThread.)
 
 ## Tips
 
